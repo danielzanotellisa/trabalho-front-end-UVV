@@ -4,7 +4,7 @@
 - Integrantes: 
     - Daniel Zanotelli Sa
     - Ana Julia Martins Herdy
-    - Eishyla Felix Ferreira
+    - Eyshila Felix Ferreira
 
 ## Tema do trabalho
 ---
